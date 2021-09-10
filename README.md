@@ -2,9 +2,11 @@
 
 <figure><img src="images/Superstore Dashboard.png"></figure>
 
+## Context
 ### Acme has a healthy sales trend in overall. Specifically, sales reaches peak in Q4 every year.
 <figure><img src="images/story_1.png"></figure>
 
+## Challenge
 ### However, when we look at profit, two months are negative. It brings out the question that why we are still losing profit even though sales are healthy? 
 <figure><img src="images/story_2.png"></figure>
 
@@ -14,6 +16,7 @@
 ### Same thing across different product categories.
 <figure><img src="images/story_4.png"></figure>
 
+## Conclusion
 ### The discount campaign is proven to be wrong! Too much discount was applied. In general, discount should be less than 20%.
 <figure><img src="images/story_5.png"></figure>
 
